@@ -1,3 +1,7 @@
+#include <iostream>
+#include <stack>
+
+
 class Solution
 {
 public:
