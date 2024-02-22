@@ -42,7 +42,6 @@ struct SearchAlgorithms
 
             return -1;
         }
-
     };
 };
 
