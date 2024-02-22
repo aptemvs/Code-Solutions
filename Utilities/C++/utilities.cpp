@@ -4,7 +4,6 @@
 #include <stdexcept>
 
 
-
 struct SearchAlgorithms
 {
     struct BinarySearch
